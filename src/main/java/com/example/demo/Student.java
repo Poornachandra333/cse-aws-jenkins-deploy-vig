@@ -8,7 +8,7 @@ public class Student {
 
 	@GetMapping("/")
 	public String studentDetails() {
-		return "Rohit sharma is a Mumbai ex captain";
-	}
+		return "Rohit sharma is a Mumbai ex captain Now Hardik Pandya is a Captain";
+	} 
 	
 }
